@@ -1,4 +1,4 @@
-This repository contains data and python code used in the manuscript "Exposed Land During the Early Archean Revealed by Machine Learning" by Chuntao Liu, C. Brenhin Keller, Xiaoming Liu, J ZhangZhou. This readme file also help you to conduct the python coding in the paper.
+This repository contains data and python code used in the manuscript "Exposed Land During the Early Archean Revealed by Machine Learning" by Chuntao Liu, C. Brenhin Keller, Xiaoming Liu, J ZhangZhou. This readme file also helps you conduct the paper's python coding.
 
 Contents:
 
@@ -17,7 +17,7 @@ Table-S5.Hydrothermally altered vs. unaltered basalts: Liu and He (2021) (doi: 1
 2.Codes:
 
 Please put the Excel file and the python code in the same path.
-All the python codes were implemented at the Jupyter platform.
+All the python codes were implemented ON the Jupyter Notebook platform.
 
 If you want to run the "Python_code_1_XGBOOST-ctliu2022", you should use the Excel Table-S2 and Table-S4.
 Please delete the first row of each Excel file before running. See details in the python file.
