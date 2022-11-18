@@ -12,7 +12,7 @@ Table-S3.Application dataset and predicted results of subaerial probability: The
 
 Table-S4.Application dataset for prediction: We extracted major and trace elements from the "Application dataset", which can be predicted by the well-trained XGBoost model.
 
-Table-S5.Hydrothermally altered vs. unaltered basalts: Liu and He (2021) (doi: 10.7185/geochemlet.2115) compiled this geochemical data of hydrothermally altered and unaltered basalts. Then, we applied the XGBoost machine learning method to predict every sample's subaerial eruption probability. As a result, our model can accurately identify the sample's aquatic erupted environment despite the alteration of samples.
+Table-S5.Hydrothermally altered vs. unaltered basalts: Geochemical data on hydrothermally altered and unaltered basalts were extracted from Liu and He (doi: 10.7185/geochemlet.2115). Then, we applied our trained XGBoost machine learning model to predict the probability that each sample was erupted subaerially. As a result, our model can accurately identify the sample's aquatic erupted environment despite the alteration of samples.
 
 2.Codes:
 
