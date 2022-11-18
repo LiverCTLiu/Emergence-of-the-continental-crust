@@ -1,4 +1,4 @@
-This repository contains data and python code used in the manuscript "Exposed Land During the Early Archean Revealed by Machine Learning" by Chuntao Liu, C. Brenhin Keller, Xiaoming Liu, J ZhangZhou. This readme file also helps you conduct the python coding.
+This repository contains data and python code used in the manuscript "Land Exposure Since the Early Archean Revealed by Machine Learning" by Chuntao Liu, C. Brenhin Keller, Xiaoming Liu, J ZhangZhou. This readme file also helps you conduct the python coding.
 
 Contents:
 
