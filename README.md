@@ -14,12 +14,14 @@ Table-S4.Application dataset for prediction: We extracted major and trace elemen
 
 Table-S5.Hydrothermally altered vs. unaltered basalts: Geochemical data on hydrothermally altered and unaltered basalts were extracted from Liu and He (doi: 10.7185/geochemlet.2115). Then, we applied our trained XGBoost machine learning model to predict the probability that each sample was erupted subaerially. As a result, our model can accurately identify the sample's aquatic erupted environment despite the alteration of samples.
 
+Table-S6.Subaerial weathered vs. fresh basalts: Geochemical data on subaerial altered and unaltered basalts were extracted from Ma et al. (doi: 10.1016/j.gca.2007.03.035). Then, we applied our trained XGBoost machine learning model to predict the probability that each sample was erupted subaerially. As a result, our model can accurately identify the sample's subaerial erupted environment despite the alteration of samples.
+
 2.Codes:
 
 Please put the Excel file and the python code in the same path.
 All the python codes were implemented on the Jupyter Notebook platform.
 
-If you want to run the "Python_code_1_XGBOOST-ctliu2022", you should use the Excel Table-S2 and Table-S4.
+If you want to run the "Python_code_1_XGBOOST-ctliu2023", you should use the Excel Table-S2 and Table-S4.
 Please delete the first row of each Excel file before running. See details in the python file.
 
 If you want to run the "Python_code_2_bootstrap-ctliu2022", you should use the Excel Table-S3.
