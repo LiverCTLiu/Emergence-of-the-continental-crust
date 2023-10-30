@@ -1,4 +1,4 @@
-This repository contains data and python code used in the manuscript "Data-driven Investigation Reveals Land Exposure Since the Early Archean" by Chun-Tao Liu, C. Brenhin Keller, Xiao-Ming Liu, J ZhangZhou. This readme file also helps you conduct the python coding.
+This repository contains data and python code used in the manuscript "Data-driven Investigation Reveals Land Exposure Since the Early Archean" by Chun-Tao Liu, Xiao-Ming Liu, J ZhangZhou. This readme file also helps you conduct the python coding.
 
 Contents:
 
